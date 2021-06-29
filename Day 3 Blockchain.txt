@@ -1,0 +1,29 @@
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+
+A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. The decentralised database managed by multiple participants is known as Distributed Ledger Technology (DLT).
+
+Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash.
+
+Key elements of a blockchain-
+1)Distributed ledger technology
+2)Immutable records
+3)Smart contracts
+
+
+Benefits of blockchain-
+1}Greater trust
+2}Greater security
+3}More efficiencies
+
+How blockchain works-
+1)As each transaction occurs, it is recorded as a “block” of data.
+2)Each block is connected to the ones before and after it
+3)Transactions are blocked together in an irreversible chain: a blockchain
+
+Types of blockchain networks-
+1)Public blockchain networks
+2)Private blockchain networks
+3)Permissioned blockchain networks
+4)Consortium blockchains
+
+
